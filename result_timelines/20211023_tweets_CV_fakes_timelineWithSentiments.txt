@@ -1,0 +1,228 @@
+Notica Falsa de partida: Según los modelos elaborados por los investigadores Steven Ward y Simon Day, la actividad sísmica del Cumbre Vieja; podría provocar el desprendimiento de rocas de hasta 500 kilómetros cúbicos, haciendo que se deslicen y generando un mega tsunami
+Sentimiento predominante: Negativo:0.881
+Emoción predominante: Miedo:0.42
+└── Fecha Tweet: 2021-09-29 00:20:28+00:00
+    ID Tweet: 1443007736195817481
+    Distancia semántica: 0.9971731901168823
+    Sentimiento predominante: Negativo:0.762
+    Emoción predominante: Miedo:0.53
+    Según los modelos elaborados por los investigadores Steven Ward y Simon Day, la actividad sísmica del Cumbre Vieja; podría provocar el desprendimiento de rocas de hasta 500 kilómetros cúbicos, haciendo que se deslicen y generando un mega tsunami.
+    │
+    └── Fecha Tweet: 2021-09-28 22:22:49+00:00
+        ID Tweet: 1442978126871605249
+        Distancia semántica: 0.9999988079071045
+        Sentimiento predominante: Negativo:0.91
+        Emoción predominante: Miedo:0.469
+        @Fabiana56221612 @RTVCes @unahoramenostv Estate tranquila que no hay megatsunami y si lo hay más ansiosos estaríamos nosotros que desaparecerían todas nuestras islas imagínate el miedo que podemos tener pero hay expertos que descartan este tsunami tranquila
+        │
+        └── Fecha Tweet: 2021-09-28 21:17:15+00:00
+            ID Tweet: 1442961625624023041
+            Distancia semántica: 1.000000238418579
+            Sentimiento predominante: Neutro:0.986
+            Emoción predominante: Otras emociones:0.734
+            @DavidGray75 @DJAA78443071 @involcan Claro, si se derrumba media isla = megatsunami. Si se desprenden unos metros cúbicos de tierra del acantilado = microstunami. M = mega, m =  mili, "mu" = micro. Es mucho más pequeño, pero se puede medir aún. 
+            │
+            └── Fecha Tweet: 2021-09-27 03:01:08+00:00
+                ID Tweet: 1442323392925818890
+                Distancia semántica: 1.0
+                Sentimiento predominante: Negativo:0.851
+                Emoción predominante: Tristeza:0.52
+                @jesusdelacruzol No quiero ser pajaro de mal agüero, pero a ver si van a ser sintomas de lo que pronosticaron en un documental, que se iba a desmoronar todo el cordal de montes de cumbre vieja , originando un megatsunami. Esperemos que sea por la actividad sismica.
+                │
+                └── Fecha Tweet: 2021-09-27 02:41:35+00:00
+                    ID Tweet: 1442318471040278531
+                    Distancia semántica: 0.9999996423721313
+                    Sentimiento predominante: Negativo:0.969
+                    Emoción predominante: Otras emociones:0.728
+                    Aclarar la probabilidad de ocurrencia de esta teoría de megatsunami que se podría originar en cadena:1-Erupciones 2-Aperrura de más “bocas del volcán 3-Se desprende roca de 24 km y cae al mar 4- El tsunami afecta EEUU, el caribe y Latinoamérica :  https://t.co/dXmKO4YgzE
+                    │
+                    └── Fecha Tweet: 2021-09-26 20:05:06+00:00
+                        ID Tweet: 1442218695766380545
+                        Distancia semántica: 0.9999995827674866
+                        Sentimiento predominante: Negativo:0.996
+                        Emoción predominante: Tristeza:0.475
+                        @brasinolo @Raqueljoaira Por cierto hace más de una década que estaba pronosticado que podía desgajarse una parte de la isla y caer al mar, provocando un mega tsunami, fruto de la actividad volcánica
+                        │
+                        └── Fecha Tweet: 2021-09-25 22:07:48+00:00
+                            ID Tweet: 1441887184244543489
+                            Distancia semántica: 0.9999992847442627
+                            Sentimiento predominante: Neutro:0.897
+                            Emoción predominante: Otras emociones:0.962
+                            https://t.co/M58H9zwE9W. TERRORÍFICO, expertos alerta de un posible mega tsunami tras la erupción del volcán de la Cumbre vieja
+                            │
+                            └── Fecha Tweet: 2021-09-25 19:33:02+00:00
+                                ID Tweet: 1441848236768067586
+                                Distancia semántica: 0.9999988675117493
+                                Sentimiento predominante: Neutro:0.991
+                                Emoción predominante: Otras emociones:0.876
+                                (INFOGRAFICO) La teoría del "megatsunami" que podría provocar una erupción en la Isla de Palma (2): posible evolución de la ola/tsunami en el archipiélago canario y sus alrededores https://t.co/EDNVuFdCiT https://t.co/2fTZ5bZ1Rl
+                                │
+                                └── Fecha Tweet: 2021-09-25 18:31:28+00:00
+                                    ID Tweet: 1441832741591560196
+                                    Distancia semántica: 0.9999995827674866
+                                    Sentimiento predominante: Negativo:0.999
+                                    Emoción predominante: Enfado:0.962
+                                    @LaTrueVader Supermega tsunami Mega terremotos Catastrofes impredecibles Se supone que la falla de la palma entra en contacto los campos flegreos y con la de yellowstone y nos vamos a la mierda.
+                                    │
+                                    └── Fecha Tweet: 2021-09-25 17:27:41+00:00
+                                        ID Tweet: 1441816691982229513
+                                        Distancia semántica: 1.0000003576278687
+                                        Sentimiento predominante: Neutro:0.854
+                                        Emoción predominante: Otras emociones:0.519
+                                        El volcán de Cumbre Vieja podria generar Un megatsunami en el océano Atlántico https://t.co/HJyJqoAi6k
+                                        │
+                                        └── Fecha Tweet: 2021-09-22 18:55:13+00:00
+                                            ID Tweet: 1440751556857458695
+                                            Distancia semántica: 0.9999992847442627
+                                            Sentimiento predominante: Negativo:0.996
+                                            Emoción predominante: Tristeza:0.509
+                                            Volcán cumbre vieja. Canarias. 1-linea de falla 2-posible desprendimiento de parte de la montaña  De ocurrir ese fenómeno odria generar un mega-tsunami con consecuencias catastróficas. https://t.co/3fxTKy1E9d
+                                            │
+                                            └── Fecha Tweet: 2021-09-21 19:49:09+00:00
+                                                ID Tweet: 1440402742019645441
+                                                Distancia semántica: 1.0000001192092896
+                                                Sentimiento predominante: Neutro:0.821
+                                                Emoción predominante: Otras emociones:0.943
+                                                #LoMásLeído La erupción de La Palma resucita la teoría del "mega-tsunami": por qué no es posible https://t.co/27NYxGrue6
+                                                │
+                                                └── Fecha Tweet: 2021-09-21 19:01:53+00:00
+                                                    ID Tweet: 1440390845547515906
+                                                    Distancia semántica: 1.0000001192092896
+                                                    Sentimiento predominante: Negativo:0.999
+                                                    Emoción predominante: Otras emociones:0.487
+                                                    @LaDamadNoche Las fisuras se han producido mucho más abajo. No se puede producir el desprendimiento del terreno previsto y, de ocurrir, el movimiento de tierras es insuficiente para producir el famosos y catastrófico mega tsunami.
+                                                    │
+                                                    └── Fecha Tweet: 2021-09-20 18:24:14+00:00
+                                                        ID Tweet: 1440018983130894336
+                                                        Distancia semántica: 1.000000238418579
+                                                        Sentimiento predominante: Neutro:0.649
+                                                        Emoción predominante: Otras emociones:0.761
+                                                        La erupción de La Palma resucita la teoría del "mega-tsunami": por qué no es posible https://t.co/tO2TnGgW1a
+                                                        │
+                                                        └── Fecha Tweet: 2021-09-20 18:11:41+00:00
+                                                            ID Tweet: 1440015824811659265
+                                                            Distancia semántica: 0.9999998211860657
+                                                            Sentimiento predominante: Neutro:0.782
+                                                            Emoción predominante: Otras emociones:0.849
+                                                            La erupción de La Palma resucita la teoría del "mega-tsunami": por qué no es posible, en @Ciencia_EE https://t.co/ssRNFWbLMr
+                                                            │
+                                                            └── Fecha Tweet: 2021-09-20 16:01:36+00:00
+                                                                ID Tweet: 1439983086733774852
+                                                                Distancia semántica: 0.9999998807907104
+                                                                Sentimiento predominante: Neutro:0.649
+                                                                Emoción predominante: Otras emociones:0.761
+                                                                La erupción de La Palma resucita la teoría del "mega-tsunami": por qué no es posible https://t.co/kibknAEhQr
+                                                                │
+                                                                └── Fecha Tweet: 2021-09-20 05:12:33+00:00
+                                                                    ID Tweet: 1439819748599083014
+                                                                    Distancia semántica: 1.000000238418579
+                                                                    Sentimiento predominante: Negativo:0.522
+                                                                    Emoción predominante: Otras emociones:0.513
+                                                                    @RealSeasonNT1 @dhu84 Pues el vulcanólogo dice que ocurrirá seguro, lo que no saben es cuándo exactamente. Aunque creo que se refería al volcán principal de la isla. Si ese derrumba la mitad occidental de isla, son muchos km^3 de materiales que caerían al mar provocando el mega tsunami.
+                                                                    │
+                                                                    └── Fecha Tweet: 2021-09-20 02:57:04+00:00
+                                                                        ID Tweet: 1439785655828103169
+                                                                        Distancia semántica: 0.9999996423721313
+                                                                        Sentimiento predominante: Neutro:0.946
+                                                                        Emoción predominante: Otras emociones:0.908
+                                                                        Hay una teoría de un mega tsunami que se formaría por una erupción en cumbre vieja, dicho tsunami afectaría a todas las costas de América justo donde hoy hay una erupción
+                                                                        │
+                                                                        └── Fecha Tweet: 2021-09-20 00:15:54+00:00
+                                                                            ID Tweet: 1439745094979051524
+                                                                            Distancia semántica: 1.0000004768371582
+                                                                            Sentimiento predominante: Neutro:0.893
+                                                                            Emoción predominante: Otras emociones:0.947
+                                                                            RT @RodRettig: A propósito de La Palma, se estudia hace décadas un posible mega tsunami q se produce por enormes deslizamientos de tierra q
+                                                                            │
+                                                                            └── Fecha Tweet: 2021-09-19 20:24:37+00:00
+                                                                                ID Tweet: 1439686889301286919
+                                                                                Distancia semántica: 0.9999999403953552
+                                                                                Sentimiento predominante: Negativo:0.78
+                                                                                Emoción predominante: Otras emociones:0.506
+                                                                                Alerta ante Erupción del #volcán #CumbreVieja en #LaPalma, #España #VolcanLaPalma #volcanCumbreVieja  ATENCION: Si se desprende parte del volcán hacia el mar podría producir un Mega-tsunami  https://t.co/o1m9YrH5ID
+                                                                                │
+                                                                                └── Fecha Tweet: 2021-09-19 18:48:09+00:00
+                                                                                    ID Tweet: 1439662613256937473
+                                                                                    Distancia semántica: 0.9999992251396179
+                                                                                    Sentimiento predominante: Neutro:0.996
+                                                                                    Emoción predominante: Otras emociones:0.924
+                                                                                    Il vulcano Cumbre Vieja e la teoria (smentita) del “mega tsunami” https://t.co/jjdsvV4dTR
+                                                                                    │
+                                                                                    └── Fecha Tweet: 2021-09-19 18:29:09+00:00
+                                                                                        ID Tweet: 1439657832396304390
+                                                                                        Distancia semántica: 1.000000238418579
+                                                                                        Sentimiento predominante: Negativo:0.993
+                                                                                        Emoción predominante: Sorpresa:0.919
+                                                                                        Mega tsunami generato dal vulcano Cumbre Vieja? Allarme reale ma esagerato https://t.co/7iCXwVi5Tz
+                                                                                        │
+                                                                                        └── Fecha Tweet: 2021-09-19 16:38:29+00:00
+                                                                                            ID Tweet: 1439629981383016450
+                                                                                            Distancia semántica: 0.9999997615814209
+                                                                                            Sentimiento predominante: Negativo:0.946
+                                                                                            Emoción predominante: Otras emociones:0.821
+                                                                                            Teoría de un Mega tsunami que pudiera estar provocado por la erupción volcánica en la isla de la Palma, olas de 1000 pies de altura que hundirían parte de la costa este americana. https://t.co/OliLECjgiO
+                                                                                            │
+                                                                                            └── Fecha Tweet: 2021-09-19 15:00:07+00:00
+                                                                                                ID Tweet: 1439605226810523655
+                                                                                                Distancia semántica: 1.000000238418579
+                                                                                                Sentimiento predominante: Neutro:0.832
+                                                                                                Emoción predominante: Otras emociones:0.662
+                                                                                                URGENTE: hace Erupción volcán en las Palmas. Ante una erupción mayor podría causar un mega tsunami que podría afectar a toda la costa del atlántica de toda América
+                                                                                                │
+                                                                                                └── Fecha Tweet: 2021-09-19 14:40:31+00:00
+                                                                                                    ID Tweet: 1439600296762744833
+                                                                                                    Distancia semántica: 1.0
+                                                                                                    Sentimiento predominante: Negativo:0.998
+                                                                                                    Emoción predominante: Miedo:0.509
+                                                                                                    @OFFTHET4BLE si pero si la cosa se pone grave la erupcion puede generar un mega tsunami que afecte a toda la costa este de todo el continente americano y a mas lugares del mundo
+                                                                                                    │
+                                                                                                    └── Fecha Tweet: 2021-09-19 14:37:36+00:00
+                                                                                                        ID Tweet: 1439599562591723523
+                                                                                                        Distancia semántica: 1.0000007152557373
+                                                                                                        Sentimiento predominante: Negativo:0.574
+                                                                                                        Emoción predominante: Tristeza:0.335
+                                                                                                        En alguna parte leí que si hay derrumbe hacia el mar, provocaría un mega tsunami... https://t.co/vdOdKFqgC1
+                                                                                                        │
+                                                                                                        └── Fecha Tweet: 2021-09-19 13:38:29+00:00
+                                                                                                            ID Tweet: 1439584683101143044
+                                                                                                            Distancia semántica: 1.0000001192092896
+                                                                                                            Sentimiento predominante: Negativo:0.942
+                                                                                                            Emoción predominante: Otras emociones:0.516
+                                                                                                            De la isla española La Palma en el Océano Atlántico. Los científicos calculan que una erupción del volcán Cumbre Vieja podría derramar unos 500 mil millones de toneladas de tierra y rocas al mar. “Ésa sería la fuente de un mega-tsunami hasta ahora inédito en la nueva era...
+                                                                                                            │
+                                                                                                            └── Fecha Tweet: 2021-09-18 19:09:02+00:00
+                                                                                                                ID Tweet: 1439305483286982658
+                                                                                                                Distancia semántica: 0.9999998807907104
+                                                                                                                Sentimiento predominante: Negativo:0.993
+                                                                                                                Emoción predominante: Otras emociones:0.599
+                                                                                                                @Diego19zgz @Carlapedrianes Si hay erupción se cae la mitad de la isla al mar produciendo un mega tsunami..
+                                                                                                                │
+                                                                                                                └── Fecha Tweet: 2021-09-18 16:13:22+00:00
+                                                                                                                    ID Tweet: 1439261275612196865
+                                                                                                                    Distancia semántica: 0.9999993443489075
+                                                                                                                    Sentimiento predominante: Negativo:0.996
+                                                                                                                    Emoción predominante: Otras emociones:0.722
+                                                                                                                    Respecto a sensacionalismos catastrofistas, ciencia. Porqué es altamente improbable un mega tsunami, aún produciéndose un deslizamiento de tierras en el Cumbre Vieja de #lapalma   https://t.co/oEIra2Tp8T
+                                                                                                                    │
+                                                                                                                    └── Fecha Tweet: 2021-09-18 13:31:57+00:00
+                                                                                                                        ID Tweet: 1439220650296631300
+                                                                                                                        Distancia semántica: 1.0000004768371582
+                                                                                                                        Sentimiento predominante: Negativo:0.997
+                                                                                                                        Emoción predominante: Otras emociones:0.929
+                                                                                                                        Mega tsunami  Volcán cumbre vieja https://t.co/ncHnvgQRCZ
+                                                                                                                        │
+                                                                                                                        └── Fecha Tweet: 2021-09-17 11:25:06+00:00
+                                                                                                                            ID Tweet: 1438826339335868417
+                                                                                                                            Distancia semántica: 0.9999998807907104
+                                                                                                                            Sentimiento predominante: Negativo:0.914
+                                                                                                                            Emoción predominante: Otras emociones:0.668
+                                                                                                                            El volcán #CumbreVieja de entrar en erupción podría causar un mega tsunami que viajaría a 800 km/h afectando ciudades en todo el Atlántico. https://t.co/8fALo0OAvN
+                                                                                                                            │
+                                                                                                                            └── Fecha Tweet: 2021-09-16 22:04:40+00:00
+                                                                                                                                ID Tweet: 1438624907248771074
+                                                                                                                                Distancia semántica: 1.0000004768371582
+                                                                                                                                Sentimiento predominante: Negativo:0.999
+                                                                                                                                Emoción predominante: Otras emociones:0.548
+                                                                                                                                ¿Un mega Tsunami que destruya la costa este useña?
+                                                                                                                                │
+

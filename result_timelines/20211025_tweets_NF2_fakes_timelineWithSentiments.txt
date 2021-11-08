@@ -1,0 +1,312 @@
+Notica Falsa de partida: Plan de reducción de la población a través de intubación en los hospitales y las vacunas de grafeno
+Sentimiento predominante: Neutro:0.998
+Emoción predominante: Otras emociones:0.975
+└── Fecha Tweet: 2021-10-20 15:49:00+00:00
+    ID Tweet: 1450851551900323843
+    Distancia semántica: 0.8955789804458618
+    Sentimiento predominante: Neutro:0.998
+    Emoción predominante: Otras emociones:0.985
+    RT @vozproletariada: Plan de reducción de la población a través de intubación en los hospitales y las vacunas de grafeno https://t.co/H1urf
+    │
+    └── Fecha Tweet: 2021-10-20 15:48:33+00:00
+        ID Tweet: 1450851439350276098
+        Distancia semántica: 1.0
+        Sentimiento predominante: Neutro:0.998
+        Emoción predominante: Otras emociones:0.975
+        Plan de reducción de la población a través de intubación en los hospitales y las vacunas de grafeno https://t.co/H1urf3GbS6
+        │
+        └── Fecha Tweet: 2021-10-20 15:39:54+00:00
+            ID Tweet: 1450849262124797956
+            Distancia semántica: 0.9999995231628418
+            Sentimiento predominante: Negativo:0.759
+            Emoción predominante: Enfado:0.699
+            Pueblo despierta que están llevando a cabo una agenda para reducir la población, las vacunas tienen grafeno y en los hospitales les secan los pulmones a los que lleguen sin oxígeno, SALVATE respira oxigeno quítate ese bozal
+            │
+            └── Fecha Tweet: 2021-10-20 12:23:49+00:00
+                ID Tweet: 1450799918558425095
+                Distancia semántica: 1.000000238418579
+                Sentimiento predominante: Negativo:0.795
+                Emoción predominante: Otras emociones:0.933
+                si eres tan investigador investiga las vacunas con grafeno que estan matando al mundo.
+                │
+                └── Fecha Tweet: 2021-10-20 12:22:23+00:00
+                    ID Tweet: 1450799555830812680
+                    Distancia semántica: 1.0000003576278687
+                    Sentimiento predominante: Neutro:0.937
+                    Emoción predominante: Enfado:0.975
+                    @Agenda2030_ Ya estamos con "un estudio".... "Un grupo de Expertos".... ¿Qué estudio? dime... A ver si el Grafeno contenido en las vacunas provoca coagulación, y gracias a los campos EM trombos, Infartos, Ictus, Miocarditis, Embolias.... vayan diciendo la verdad, CRIMINALES!!!!
+                    │
+                    └── Fecha Tweet: 2021-10-20 04:05:13+00:00
+                        ID Tweet: 1450674441730527234
+                        Distancia semántica: 1.0000001192092896
+                        Sentimiento predominante: Neutro:0.972
+                        Emoción predominante: Otras emociones:0.974
+                        @LuzhacttannyA @Dr_Henry21 @federicom_marin Claro, porque las vacunas contienen óxido de grafeno.
+                        │
+                        └── Fecha Tweet: 2021-10-20 02:26:37+00:00
+                            ID Tweet: 1450649626588164100
+                            Distancia semántica: 1.000000238418579
+                            Sentimiento predominante: Negativo:0.999
+                            Emoción predominante: Enfado:0.988
+                            Ahora las vacunas causan accidentes aéreos según los antivacunas...  Estos pendejos ya no saben que inventar, un día es "magnetismo", otro el grafeno, que miocarditis, también ADE y ahora hasta cáncer. A ver que estupidez se inventan dentro de un mes... https://t.co/HV2TkS4Ajo
+                            │
+                            └── Fecha Tweet: 2021-10-19 22:59:55+00:00
+                                ID Tweet: 1450597607886131201
+                                Distancia semántica: 0.9999997615814209
+                                Sentimiento predominante: Neutro:0.999
+                                Emoción predominante: Otras emociones:0.963
+                                @DanAlbornozM @Mentepositiva22 Para empezar, tengo todas las vacunas q el calendario promueve...en segundo lugar, éstas no son vacunas sinó terapias génicas...una vacuna inmuniza con una y a lo sumo con dos(2) dosis...ya vamos x la 3er y 4ta dosis...x o tanto no son vacunas...y además contienen grafeno...
+                                │
+                                └── Fecha Tweet: 2021-10-19 20:26:29+00:00
+                                    ID Tweet: 1450558994729275392
+                                    Distancia semántica: 1.0000007152557373
+                                    Sentimiento predominante: Negativo:0.999
+                                    Emoción predominante: Enfado:0.934
+                                    @Newtral Te intoxicación el sistema las vacunas con óxido de grafeno, esta el informe del dr csmpra bajo el microscopio que lo tienen los jueces y no quieren autorizar para hacer el informe definitivo
+                                    │
+                                    └── Fecha Tweet: 2021-10-19 19:11:00+00:00
+                                        ID Tweet: 1450540000978870278
+                                        Distancia semántica: 0.9999998807907104
+                                        Sentimiento predominante: Negativo:0.999
+                                        Emoción predominante: Otras emociones:0.763
+                                        @vinyes71 @DoctorSITHo No lo se. El grafeno o el GO puede usarse en biomedicina con fines beneficiosos pero han censurado y bloqueado a la gente que hablaba de ello, así que es lógico pensar que, con estas vacunas, no lleva un buen fin 
+                                        │
+                                        └── Fecha Tweet: 2021-10-19 17:27:40+00:00
+                                            ID Tweet: 1450513994343723014
+                                            Distancia semántica: 1.0000001192092896
+                                            Sentimiento predominante: Neutro:0.945
+                                            Emoción predominante: Sorpresa:0.537
+                                            ¡Bombazo! El sindicato CGT exige por escrito al director gerente de un hospital de Valladolid que analice las vacunas ante la posibilidad de que contengan óxido de grafeno https://t.co/bTGFjJdnLf a través de @ElDiestro_
+                                            │
+                                            └── Fecha Tweet: 2021-10-19 16:02:24+00:00
+                                                ID Tweet: 1450492536448069633
+                                                Distancia semántica: 0.9999999403953552
+                                                Sentimiento predominante: Neutro:0.705
+                                                Emoción predominante: Otras emociones:0.983
+                                                @ikthsoo tmb esas vacunas contienen un alto contenido de grafeno, que resulta muuuy sospechoso que se recomiende tomar paracetamol, no beber alcohol y no exponerse al sol, siendo que éstas 3 "recomendaciones" facilitan la llegada del grafeno al cerebro
+                                                │
+                                                └── Fecha Tweet: 2021-10-19 15:30:45+00:00
+                                                    ID Tweet: 1450484574400692224
+                                                    Distancia semántica: 0.9999999403953552
+                                                    Sentimiento predominante: Neutro:0.946
+                                                    Emoción predominante: Otras emociones:0.983
+                                                    AHORA ESPERE UN POCO  Ya los infectologos más importantes del mundo más el premio Nobel en medicina Hablaron sobre los efectos adversos y el contenido de grafeno en las vacunas https://t.co/HQGy4tkICG
+                                                    │
+                                                    └── Fecha Tweet: 2021-10-19 12:57:49+00:00
+                                                        ID Tweet: 1450446086666080265
+                                                        Distancia semántica: 1.0
+                                                        Sentimiento predominante: Positivo:0.97
+                                                        Emoción predominante: Otras emociones:0.86
+                                                        @MVSNoticias @HLGatell Más vacunas más grafeno hasta que el cuerpo aguante!!! Síganle haciendo caso a este hijo de la elite
+                                                        │
+                                                        └── Fecha Tweet: 2021-10-19 12:27:16+00:00
+                                                            ID Tweet: 1450438397470912523
+                                                            Distancia semántica: 0.9999997615814209
+                                                            Sentimiento predominante: Negativo:0.932
+                                                            Emoción predominante: Otras emociones:0.957
+                                                            @oisfijate @nachorosell Quería adjuntar el documento, estudios documentados sobre el grafeno y las vacunas pero no puedo subirlo..el saber no ocupa lugar, en fin allá tu
+                                                            │
+                                                            └── Fecha Tweet: 2021-10-18 23:51:57+00:00
+                                                                ID Tweet: 1450248316529217538
+                                                                Distancia semántica: 1.0000001192092896
+                                                                Sentimiento predominante: Negativo:0.989
+                                                                Emoción predominante: Otras emociones:0.901
+                                                                Hay gente q todavía no se vacuno por ejemplo porque las vacunas tienen óxido de grafeno según ellos. Ke decirles
+                                                                │
+                                                                └── Fecha Tweet: 2021-10-18 21:39:09+00:00
+                                                                    ID Tweet: 1450214897850228736
+                                                                    Distancia semántica: 1.000000238418579
+                                                                    Sentimiento predominante: Neutro:0.996
+                                                                    Emoción predominante: Otras emociones:0.843
+                                                                    Grafeno en las vacunas  https://t.co/Im1SzEW3V9
+                                                                    │
+                                                                    └── Fecha Tweet: 2021-10-18 12:40:06+00:00
+                                                                        ID Tweet: 1450079240569905153
+                                                                        Distancia semántica: 1.0
+                                                                        Sentimiento predominante: Neutro:0.996
+                                                                        Emoción predominante: Otras emociones:0.965
+                                                                        @Mav_erick2 No hay diferencias entre vacunarse y no vacunarse, el protocolo a seguir es el mismo, aunque el contenido de las vacunas es óxido de grafeno y eso mata de infarto porque produce trombos.
+                                                                        │
+                                                                        └── Fecha Tweet: 2021-10-18 12:16:45+00:00
+                                                                            ID Tweet: 1450073363913838595
+                                                                            Distancia semántica: 0.9999988675117493
+                                                                            Sentimiento predominante: Negativo:0.725
+                                                                            Emoción predominante: Otras emociones:0.952
+                                                                            @BenjaminReyesMt @elnuevodiariord Las inyecciones esas contienen óxido de grafeno, tóxico que produce trombos. No son vacunas.
+                                                                            │
+                                                                            └── Fecha Tweet: 2021-10-18 01:50:17+00:00
+                                                                                ID Tweet: 1449915707517509633
+                                                                                Distancia semántica: 1.0000003576278687
+                                                                                Sentimiento predominante: Negativo:0.999
+                                                                                Emoción predominante: Enfado:0.639
+                                                                                RT @trillado666: Nos están matando con oxido de grafeno en las vacunas. Criminales.
+                                                                                │
+                                                                                └── Fecha Tweet: 2021-10-17 17:13:38+00:00
+                                                                                    ID Tweet: 1449785690066231303
+                                                                                    Distancia semántica: 0.9999992847442627
+                                                                                    Sentimiento predominante: Neutro:0.845
+                                                                                    Emoción predominante: Enfado:0.975
+                                                                                    @HLGatell @SEP_mx Cuando van a dejar el circovid ya estuvo bueno no? O aún quieren matar más gente con el grafeno llamado vacunas?
+                                                                                    │
+                                                                                    └── Fecha Tweet: 2021-10-17 16:33:22+00:00
+                                                                                        ID Tweet: 1449775554870353924
+                                                                                        Distancia semántica: 1.000000238418579
+                                                                                        Sentimiento predominante: Neutro:0.997
+                                                                                        Emoción predominante: Otras emociones:0.977
+                                                                                        @EduardoMazo5 He visto hoy un tuit de uno que decía que los inyectados tenían esperanza de vida de 3 a 10 años, por el óxido de grafeno de las vacunas.
+                                                                                        │
+                                                                                        └── Fecha Tweet: 2021-10-17 15:49:26+00:00
+                                                                                            ID Tweet: 1449764498257108995
+                                                                                            Distancia semántica: 0.9999994039535522
+                                                                                            Sentimiento predominante: Negativo:0.9
+                                                                                            Emoción predominante: Enfado:0.942
+                                                                                            Claro que sí usted  gobernara, estuviera  acorralando a la gente para q le metieran el veneno de GRAFENO y células Fetales que dicen Muchos Científicos q tienen este proyecto de Vacunas, Usted sabe muy bien de lo q está pasando con este plan de las Vacunas, han seguido el guión https://t.co/mAIDCocCwJ
+                                                                                            │
+                                                                                            └── Fecha Tweet: 2021-10-17 10:46:36+00:00
+                                                                                                ID Tweet: 1449688289338871810
+                                                                                                Distancia semántica: 1.0000003576278687
+                                                                                                Sentimiento predominante: Negativo:0.996
+                                                                                                Emoción predominante: Enfado:0.973
+                                                                                                como nos engañan los politicos  para faborecer a la elite mundial  vacunas y grafeno   es lo que quieren controlar  a toda  la poblacion
+                                                                                                │
+                                                                                                └── Fecha Tweet: 2021-10-17 06:38:38+00:00
+                                                                                                    ID Tweet: 1449625885737316354
+                                                                                                    Distancia semántica: 0.9999998807907104
+                                                                                                    Sentimiento predominante: Neutro:0.999
+                                                                                                    Emoción predominante: Otras emociones:0.972
+                                                                                                    @marcelomoyaf @arroyomatteucc1 Las vacunas actuales no tienen dióxido de grafeno.
+                                                                                                    │
+                                                                                                    └── Fecha Tweet: 2021-10-17 04:51:44+00:00
+                                                                                                        ID Tweet: 1449598982834032641
+                                                                                                        Distancia semántica: 0.9999995827674866
+                                                                                                        Sentimiento predominante: Neutro:0.737
+                                                                                                        Emoción predominante: Enfado:0.518
+                                                                                                        @Maluavi La tJimena Campos dice que sólo existe un tipo de vacunas, que si no genera inmunidad no se puede llamar vacuna, y en la Defensoría dijeron que trae grafeno, líneas celulares de bebés abortados y metales pesados, que quienes no tenemos efectos adversos es porque recibimos agua 🤣
+                                                                                                        │
+                                                                                                        └── Fecha Tweet: 2021-10-17 03:07:26+00:00
+                                                                                                            ID Tweet: 1449572736678961154
+                                                                                                            Distancia semántica: 1.0000004768371582
+                                                                                                            Sentimiento predominante: Negativo:0.984
+                                                                                                            Emoción predominante: Enfado:0.795
+                                                                                                            @Pontifex_es Las vacunas pude que vacunen el mundo, para quemuera mucha gente con el veneno que les colocan, comprobado se llama óxido de grafeno, la gente enferma otros han muerto y los que queden control sobre ellos asi imponen el nuevo orden mundial, a punta de vidas
+                                                                                                            │
+                                                                                                            └── Fecha Tweet: 2021-10-16 19:17:21+00:00
+                                                                                                                ID Tweet: 1449454433272844294
+                                                                                                                Distancia semántica: 1.0000007152557373
+                                                                                                                Sentimiento predominante: Negativo:0.998
+                                                                                                                Emoción predominante: Otras emociones:0.4
+                                                                                                                @erilanz_ @jcastilloalardo Por eso, esos mismos borregos también morirán a partir del 2022, debido al veneno de proteínas spike y nanopartículas de grafeno que contienen todas las "vacunas" al 99%. #DictaduraSanitariaRD  #DictaduraSanitaria  #GobiernoGenocida
+                                                                                                                │
+                                                                                                                └── Fecha Tweet: 2021-10-16 18:18:54+00:00
+                                                                                                                    ID Tweet: 1449439725111099392
+                                                                                                                    Distancia semántica: 1.0
+                                                                                                                    Sentimiento predominante: Negativo:0.996
+                                                                                                                    Emoción predominante: Enfado:0.913
+                                                                                                                    Hay antivacunas q pierden toda credibilidad cuando sus argumentos NO tienen sentido,  Que si el grafeno Que si el nuevo orden mundial, quiere eliminar a millones  por la sobrepoblacion Que si con las vacunas inyectan un chip del 5G   Pero, hay otros profesionales con ARGUMENTOS
+                                                                                                                    │
+                                                                                                                    └── Fecha Tweet: 2021-10-16 16:29:02+00:00
+                                                                                                                        ID Tweet: 1449412074707238912
+                                                                                                                        Distancia semántica: 0.9999997615814209
+                                                                                                                        Sentimiento predominante: Negativo:0.999
+                                                                                                                        Emoción predominante: Enfado:0.931
+                                                                                                                        @solimar_rojas hay una diferencia abismal entre las vacunas que nos aplicaron de pequeños a esta agua de grafeno que estan poniendo (¡¡QUE NO ES VACUNA!!)Lla ignorancia es tuya porque te quieres morir a segun te indiquen los de la plandemia...yo nunca me he creido mejor ...
+                                                                                                                        │
+                                                                                                                        └── Fecha Tweet: 2021-10-16 13:44:42+00:00
+                                                                                                                            ID Tweet: 1449370719893262340
+                                                                                                                            Distancia semántica: 1.0
+                                                                                                                            Sentimiento predominante: Negativo:0.925
+                                                                                                                            Emoción predominante: Enfado:0.953
+                                                                                                                            DESDE YA ES UNA VERDADERA 3°GUERRA MUNDIAL ENTRE LA OSCURIDAD Y LA LUZ,ENTRE LA MASONERIA GLOBALISTA LUCIFERIANA MILLONARIA MUNDIAL Y LA HUMANIDAD,LAS VACUNAS NO SON TAL,SON TERAPIA EXPERIMENTAL GENICA CON INCLUSION DE CUERPOS PARASITARIOS Y HUEVOS EXTRAÑOS CON GRAFENO=MUERTE=NOM https://t.co/RDStwbG7hd
+                                                                                                                            │
+                                                                                                                            └── Fecha Tweet: 2021-10-16 12:06:03+00:00
+                                                                                                                                ID Tweet: 1449345895003213832
+                                                                                                                                Distancia semántica: 0.9999999403953552
+                                                                                                                                Sentimiento predominante: Negativo:0.872
+                                                                                                                                Emoción predominante: Enfado:0.69
+                                                                                                                                @ALEXIHAYEK @palmiroT En todos los paises donde la vacunacion avanza las muertes por covid disminuyen, desconozco lo del grafeno pero las vacunas pasan por aprobaciones mundiales y locales  Creo que te gusta agarrate de excepciones para justificar tu conspiranoia
+                                                                                                                                │
+                                                                                                                                └── Fecha Tweet: 2021-10-16 12:05:44+00:00
+                                                                                                                                    ID Tweet: 1449345815911219200
+                                                                                                                                    Distancia semántica: 1.0000001192092896
+                                                                                                                                    Sentimiento predominante: Negativo:0.999
+                                                                                                                                    Emoción predominante: Enfado:0.967
+                                                                                                                                    @ndplaura Porque no tienen una reunión con los de la quinta columna donde esta el informe preliminar del Dr.Campra donde confirma grafeno y seres biológicos sin identificar en las vacunas, esto es muy grave y urgente para para esta intoxicación q le hacen al pueblo pueblo familias
+                                                                                                                                    │
+                                                                                                                                    └── Fecha Tweet: 2021-10-16 11:40:25+00:00
+                                                                                                                                        ID Tweet: 1449339442263740421
+                                                                                                                                        Distancia semántica: 0.9999996423721313
+                                                                                                                                        Sentimiento predominante: Negativo:0.999
+                                                                                                                                        Emoción predominante: Otras emociones:0.769
+                                                                                                                                        @CristinaReyesec @LassoGuillermo Cristina que pasa q no para estos intereses de las vacunas sabiendo q hay óxido de grafeno y otros seres no identificados aun, el informe preliminar del dr Campra realizado en la universidad d Almeria donde lo dice,lo vengo anunciando desde el año pasado y nada, no sigan ese plan
+                                                                                                                                        │
+                                                                                                                                        └── Fecha Tweet: 2021-10-16 06:07:18+00:00
+                                                                                                                                            ID Tweet: 1449255611409977348
+                                                                                                                                            Distancia semántica: 1.0000001192092896
+                                                                                                                                            Sentimiento predominante: Neutro:0.995
+                                                                                                                                            Emoción predominante: Otras emociones:0.778
+                                                                                                                                            @n3h0 @palmiroT La diferencia con esas vacunas q recibimos desde niño, es que ninguna contenía grafeno (nuevo) ni acero 316. Componentes q los laboratorios jamás declararon. Hasta q en Japón hubo 3 muertes investigadas. Y el resultado se atribuyó un lote de la vacuna Moderna.
+                                                                                                                                            │
+                                                                                                                                            └── Fecha Tweet: 2021-10-15 22:39:17+00:00
+                                                                                                                                                ID Tweet: 1449142865901228033
+                                                                                                                                                Distancia semántica: 1.0000004768371582
+                                                                                                                                                Sentimiento predominante: Negativo:0.998
+                                                                                                                                                Emoción predominante: Otras emociones:0.384
+                                                                                                                                                @palmiroT Busquen informacion en RRSS. Se reportan vacunados enfermando gravemente d C19 en muchos países. Se reportan q vacunas contienen grafeno y acero 316. No se sabe q efectos pueden producir en nuestro cuerpo en 3 o 10 años. Y aún así nos obligan a vacunarnos.
+                                                                                                                                                │
+                                                                                                                                                └── Fecha Tweet: 2021-10-15 20:12:22+00:00
+                                                                                                                                                    ID Tweet: 1449105891475734528
+                                                                                                                                                    Distancia semántica: 1.0000003576278687
+                                                                                                                                                    Sentimiento predominante: Negativo:0.624
+                                                                                                                                                    Emoción predominante: Enfado:0.938
+                                                                                                                                                    @ccarballo50 Porque hablan tanto del grafeno en las vacunas,nadie lo aclara.
+                                                                                                                                                    │
+                                                                                                                                                    └── Fecha Tweet: 2021-10-15 18:00:57+00:00
+                                                                                                                                                        ID Tweet: 1449072819741020161
+                                                                                                                                                        Distancia semántica: 1.0000001192092896
+                                                                                                                                                        Sentimiento predominante: Positivo:0.992
+                                                                                                                                                        Emoción predominante: Otras emociones:0.822
+                                                                                                                                                        @DARIANVARGAS_A , ese grafeno en las vacunas no falla. Ya se lícito el 5G, por ahí viene el fin
+                                                                                                                                                        │
+                                                                                                                                                        └── Fecha Tweet: 2021-10-15 17:26:06+00:00
+                                                                                                                                                            ID Tweet: 1449064050881662978
+                                                                                                                                                            Distancia semántica: 1.0000008344650269
+                                                                                                                                                            Sentimiento predominante: Negativo:0.997
+                                                                                                                                                            Emoción predominante: Enfado:0.856
+                                                                                                                                                            @Ricardo93334602 @inbotre Si las farmacéuticas tuvieran el mínimo motivo para poder cargarte 45cts. más, lo harían. Si las vacunas llevaran grafeno, irían a 250 el vial. Si hubieran imagenes, no las tendríais vosotros. Si vuestra audiencia no fuera retrasada, no existiría.
+                                                                                                                                                            │
+                                                                                                                                                            └── Fecha Tweet: 2021-10-15 16:02:40+00:00
+                                                                                                                                                                ID Tweet: 1449043054137069573
+                                                                                                                                                                Distancia semántica: 1.0
+                                                                                                                                                                Sentimiento predominante: Neutro:0.716
+                                                                                                                                                                Emoción predominante: Enfado:0.438
+                                                                                                                                                                REFLEXIÓN:https://t.co/JMCENHCy4i LE PREGUNTA"¿HAY ÓXIDO DE GRAFENO EN ESTAS VACUNAS?:SÍ QUE HAY,100% Y ES IRREFUTABLE.ESTA PATENTE TIENE 193 PÁG+LOS ADJUNTOS,LA PRINCIPAL RAZÓN POR LA QUE NO DEJAN CONOCER AL PÚBLICO QUE LLEVAN OXIDO DE GRAFENO ES PORQUE:ES VENENOSO PARA HUMANOS"
+                                                                                                                                                                │
+                                                                                                                                                                └── Fecha Tweet: 2021-10-15 15:42:30+00:00
+                                                                                                                                                                    ID Tweet: 1449037978496602121
+                                                                                                                                                                    Distancia semántica: 0.9999998807907104
+                                                                                                                                                                    Sentimiento predominante: Neutro:0.716
+                                                                                                                                                                    Emoción predominante: Enfado:0.438
+                                                                                                                                                                    REFLEXIÓN:https://t.co/bagcMF6XeQ LE PREGUNTA"¿HAY ÓXIDO DE GRAFENO EN ESTAS VACUNAS?:SÍ QUE HAY,100% Y ES IRREFUTABLE.ESTA PATENTE TIENE 193 PÁG+LOS ADJUNTOS,LA PRINCIPAL RAZÓN POR LA QUE NO DEJAN CONOCER AL PÚBLICO QUE LLEVAN OXIDO DE GRAFENO ES PORQUE:ES VENENOSO PARA HUMANOS"
+                                                                                                                                                                    │
+                                                                                                                                                                    └── Fecha Tweet: 2021-10-15 10:38:43+00:00
+                                                                                                                                                                        ID Tweet: 1448961527013384194
+                                                                                                                                                                        Distancia semántica: 1.0000001192092896
+                                                                                                                                                                        Sentimiento predominante: Neutro:0.999
+                                                                                                                                                                        Emoción predominante: Otras emociones:0.942
+                                                                                                                                                                        @geoestratego Añade el grafeno de las vacunas
+                                                                                                                                                                        │
+                                                                                                                                                                        └── Fecha Tweet: 2021-10-15 03:26:32+00:00
+                                                                                                                                                                            ID Tweet: 1448852765418139688
+                                                                                                                                                                            Distancia semántica: 0.9999994039535522
+                                                                                                                                                                            Sentimiento predominante: Negativo:0.998
+                                                                                                                                                                            Emoción predominante: Enfado:0.493
+                                                                                                                                                                            @DiarioLibre No, no son antivacunas. Ese es el problema precisamente, que no son vacunas. 1: el virus nadie lo ha aislado, por consiguiente no existe.2: al laboratorio, esas inyecciones contienen el tóxico óxido de grafeno, por lo que producen trombos.
+                                                                                                                                                                            │
+                                                                                                                                                                            └── Fecha Tweet: 2021-10-15 02:44:26+00:00
+                                                                                                                                                                                ID Tweet: 1448842170996305932
+                                                                                                                                                                                Distancia semántica: 1.0000001192092896
+                                                                                                                                                                                Sentimiento predominante: Negativo:0.999
+                                                                                                                                                                                Emoción predominante: Disgusto:0.746
+                                                                                                                                                                                @DrTedros Vacunas con dioxido d grafeno bastardos pagaran vacunas asesinas dios los hara pagar por todo genocidio mundial oms onu bill gates genocida bastardos
+                                                                                                                                                                                │
+
